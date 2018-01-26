@@ -1,7 +1,7 @@
 # CG-HLSL-Atom-Shader
 A randomizing atom shader in CG with values exposed to change pattern types.
 
-##How To Use
+## How To Use
 
 When combined with the c# class in the Unity Game Engine, the developer can use the keyboard buttons to change
 the shader at runtime. The class also has the ability to stress test your GPU by increasing the amount of "electrons"
