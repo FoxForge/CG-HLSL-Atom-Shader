@@ -10,6 +10,10 @@ to roughly 40,000.
 
 Or simply if you want to see the shader code then it is here to view.
 
+Additionally, my website blog on the work can be found here:
+
+ * [GPU Programming Blog](https://dfoxforge.wixsite.com/danielfox/research-blog/gpu-programming-atom-shader) - My Reserach Blog
+
 When running in the Unity Game Engine default behaivour is to randomize the shader values every 20 seconds.
 
 - Space Bar: Will randomize all values on the shader instantly
